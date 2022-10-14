@@ -5,6 +5,6 @@
 - 📲 You can reach me [here!](https://linktr.ee/ronansingpurwala)
 - 👨🏽‍💻 [My Projects!](https://github.com/ronan-s1/My-Projects)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
 
 
