@@ -32,7 +32,7 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>it</strong></span><br>
+            <span><strong>git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
             <td width="80px" align="center">
