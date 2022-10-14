@@ -27,6 +27,10 @@
             <span><strong>C</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>NumPy</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
