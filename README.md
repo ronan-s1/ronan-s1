@@ -42,6 +42,11 @@
             <span><strong>SQL</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Processing</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg">
+            </td>
+            <td width="80px" align="center">
             <span><strong>WordPress</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
             </td>
