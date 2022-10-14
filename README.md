@@ -7,9 +7,9 @@
 <table width="320px">
     <tbody>
         <tr valign="top">
-            <td width="180px" align="center">
+            <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
-            <code><img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
