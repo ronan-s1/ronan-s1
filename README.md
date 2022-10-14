@@ -25,7 +25,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>JavaScript</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/typescript-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/C-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
