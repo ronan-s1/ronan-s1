@@ -1,4 +1,4 @@
- ## yes I am Ronan hello
+ ## yes I am Ronan hello ❗
 
 - 🌱 I’m currently a computer science student
 - 📲 You can reach me [here!](https://linktr.ee/ronansingpurwala)
