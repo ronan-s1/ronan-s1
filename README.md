@@ -1,7 +1,7 @@
  ## yes I am Ronan hello.
 
-- 🌱 I’m currently a computer science student
-- 📲 You can reach me [here!](https://linktr.ee/ronansingpurwala)
+- 🌱 I’m currently a computer science student.
+- 📭 You can reach me [here!](https://linktr.ee/ronansingpurwala)
 - 👨🏽‍💻 [My Projects!](https://github.com/ronan-s1/My-Projects)
 
 ## Stats 📊
@@ -21,5 +21,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
-
+## Socials 📲
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/ronan-singpurwala-b47ba2240/"/>
