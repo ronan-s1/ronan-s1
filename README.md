@@ -1,7 +1,7 @@
  ## yes I am Ronan hello.
 
 - 🌱 I’m currently a computer science student.
-- 📭 You can reach me **[here!](https://linktr.ee/ronansingpurwala)**
+- 📭 You can reach me **[here](https://linktr.ee/ronansingpurwala)**.
 - 👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**
 
 ## Stats 📊
