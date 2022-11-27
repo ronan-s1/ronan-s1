@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a computer science student.
 - 📭 You can reach me **[here!](https://linktr.ee/ronansingpurwala)**
-- 👨🏽‍💻 **[My Projects!](https://github.com/ronan-s1/My-Projects)**
+- 👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**
 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&layout=compact&theme=blueberry&show_icons=true"/>
