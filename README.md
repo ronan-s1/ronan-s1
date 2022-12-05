@@ -1,7 +1,7 @@
  ## yes I am Ronan hello.
 
 - 🎓 Currently a 3<sup>rd</sup> year CS student.
-- 📭 You can reach me **[here](https://linktr.ee/ronansingpurwala)**.
+- 📭 Reach me **[here](https://linktr.ee/ronansingpurwala)**.
 - 👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**
 
 ## Stats 📊
