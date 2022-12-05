@@ -4,6 +4,11 @@
 - 📭 Reach me **[here](https://linktr.ee/ronansingpurwala)**.
 - 👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**
 
+## Stats 📊
+<img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 45%;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 45%;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=6&layout=compact&theme=blueberry&show_icons=true" style="width: 45%;"/>
+
 ## Skills 🎯
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -17,10 +22,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## Stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 45%;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 45%;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=6&layout=compact&theme=blueberry&show_icons=true" style="width: 45%;"/>
 
 ## Socials 📲
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ronan-singpurwala-b47ba2240/)
