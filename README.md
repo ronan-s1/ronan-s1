@@ -7,7 +7,8 @@
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&layout=compact&theme=blueberry&show_icons=true"/>
 ![views](https://komarev.com/ghpvc/?username=ronan-s1&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/[ronan-s1])
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+
 
 ## Languages + Tools 🪛
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
