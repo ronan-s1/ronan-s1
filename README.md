@@ -6,6 +6,7 @@
 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&layout=compact&theme=blueberry&show_icons=true"/>
+![](https://komarev.com/ghpvc/?username=ronan-s1&style=flat-square)
 
 
 ## Languages + Tools 🪛
