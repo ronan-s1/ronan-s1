@@ -7,7 +7,7 @@
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 43%;"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 43%;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=6&layout=compact&theme=blueberry&show_icons=true" style="width: 43%;/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=6&layout=compact&theme=blueberry&show_icons=true" style="width: 43%;"/>
 
 ## Skills 🎯
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
