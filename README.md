@@ -23,7 +23,7 @@
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Views 👀
-<img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=242938" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=4F5D95" alt="Profile views"/>
 
 ## Socials 📲
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ronan-singpurwala-b47ba2240/)
