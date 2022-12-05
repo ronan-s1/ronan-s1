@@ -6,10 +6,10 @@
 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&layout=compact&theme=blueberry&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&show_icons=true&theme=blueberry"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry"/>
 <img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=28497d" alt="Profile views"/>
 
-## Languages + Tools 🪛
+## Skills 💡
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
