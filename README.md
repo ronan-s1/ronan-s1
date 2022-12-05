@@ -1,6 +1,6 @@
  ## yes I am Ronan hello.
 
-- 🎓 Currently a 3<sup>rd</sup> year CS student at TUDublin.
+- 🎓 Currently a 3<sup>rd</sup> year CS student at TU Dublin.
 - 📭 Reach me **[here](https://linktr.ee/ronansingpurwala)**.
 - 👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**
 
