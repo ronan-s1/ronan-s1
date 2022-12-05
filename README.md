@@ -5,9 +5,9 @@
 - 👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**
 
 ## Stats 📊
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=8&layout=compact&theme=blueberry&show_icons=true" style="width: 410px;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 410px;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 410px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=8&layout=compact&theme=blueberry&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact"/>
 
 
 ## Skills 🎯
