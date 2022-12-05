@@ -3,9 +3,11 @@
 - 🌱 I’m currently a computer science student.
 - 📭 You can reach me **[here](https://linktr.ee/ronansingpurwala)**.
 - 👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**
+<img src="https://komarev.com/ghpvc/?username=ronan-s1&style=flat-square&color=28497d" alt="Profile views"/>
 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&layout=compact&theme=blueberry&show_icons=true"/>
+<img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=28497d" alt="Profile views"/>
 
 
 ## Languages + Tools 🪛
