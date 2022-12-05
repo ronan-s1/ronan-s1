@@ -7,6 +7,8 @@
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=6&layout=compact&theme=blueberry&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry"/>
+
+## Views 👀
 <img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=28497d" alt="Profile views"/>
 
 ## Skills 💡
