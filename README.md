@@ -22,10 +22,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 45%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=6&layout=compact&theme=blueberry&show_icons=true" style="width: 45%;"/>
 
-## Views 👀
-<img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=33518f" alt="Profile views"/>
-
 ## Socials 📲
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ronan-singpurwala-b47ba2240/)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/ronanwala/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:singpurwala13@gmail.com)
+
+
+## Views 👀
+<img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=33518f" alt="Profile views"/>
