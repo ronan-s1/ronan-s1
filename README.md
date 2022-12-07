@@ -21,7 +21,7 @@
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-33a816.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
 ## Socials 📲
