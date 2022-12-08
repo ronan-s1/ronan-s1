@@ -1,3 +1,5 @@
+<hr>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=3F66F7&vCenter=true&width=1000&lines=Helllooooo+I'm+Ronan%F0%9F%91%8B;Studying+Computer+Science+%F0%9F%8E%93;Based+In+Dublin%2C+Ireland%F0%9F%93%8D)](https://git.io/typing-svg)
 
 <hr>
