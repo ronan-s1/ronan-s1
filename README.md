@@ -1,4 +1,4 @@
-# yes I am Ronan hello.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=3F66F7&vCenter=true&width=435&lines=Helllooooo+I+am+Ronan%F0%9F%91%8B;Studying+CS+at+TU+Dublin+%F0%9F%8E%93;Front+end+and+py)](https://git.io/typing-svg)
 
 - 🎓 Currently a 3<sup>rd</sup> year CS student at TU Dublin.
 - 📭 Reach me **[here](https://linktr.ee/ronansingpurwala)**.
