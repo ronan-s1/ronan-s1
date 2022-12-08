@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3840&pause=500&color=4735FF&vCenter=true&width=700&height=40&lines=Helllloooo+I'm+Ronan%F0%9F%91%8B;Studying+Computer+Science%F0%9F%8E%93;Based+In+Dublin%2C+Ireland%F0%9F%93%8D)](https://git.io/typing-svg)
 
-**->**🎓 Currently a 3<sup>rd</sup> year CS student at TU Dublin.<br>
-**->** 📭 Reach me **[here](https://linktr.ee/ronansingpurwala)**.<br>
-**->**👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**<br>
+**->** 🎓 Currently a 3<sup>rd</sup> year CS student at TU Dublin.<br>
+-> 📭 Reach me **[here](https://linktr.ee/ronansingpurwala)**.<br>
+->👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**<br>
 
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 45%;"/>
