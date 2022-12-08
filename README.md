@@ -1,5 +1,3 @@
-<hr>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=3F66F7&vCenter=true&width=1000&lines=Helllooooo+I'm+Ronan%F0%9F%91%8B;Studying+Computer+Science+%F0%9F%8E%93;Based+In+Dublin%2C+Ireland%F0%9F%93%8D)](https://git.io/typing-svg)
 
 <hr>
@@ -8,10 +6,14 @@
 - 📭 Reach me **[here](https://linktr.ee/ronansingpurwala)**.
 - 👨🏽‍💻 **[My Projects.](https://github.com/ronan-s1/My-Projects)**
 
+<hr>
+
 ## Stats 📊
 <img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 45%;"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 45%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=6&layout=compact&theme=blueberry&show_icons=true" style="width: 45%;"/>
+
+<hr>
 
 ## Skills 🎯
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -27,12 +29,14 @@
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-33a816.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+<hr>
 
 ## Socials 📲
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ronan-singpurwala-b47ba2240/)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/ronanwala/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:singpurwala13@gmail.com)
 
+<hr>
 
 ## Views 👀
 <img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=33518f" alt="Profile views"/>
