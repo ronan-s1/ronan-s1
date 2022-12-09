@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3840&pause=500&color=27e8a7&vCenter=true&width=700&height=47&lines=Helllloooo+I'm+Ronan%F0%9F%91%8B;Studying+Computer+Science%F0%9F%8E%93;Based+In+Dublin%2C+Ireland%F0%9F%93%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3840&pause=500&color=27e8a7&vCenter=true&width=700&height=46&lines=Helllloooo+I'm+Ronan%F0%9F%91%8B;Studying+Computer+Science%F0%9F%8E%93;Based+In+Dublin%2C+Ireland%F0%9F%93%8D)](https://git.io/typing-svg)
 
 **>** 🎓 Currently a 3<sup>rd</sup> year CS student at TU Dublin<br>
 **>** 🎨 I enjoy programming and designing<br>
