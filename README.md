@@ -10,7 +10,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 52%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=8&layout=compact&theme=blueberry&show_icons=true" style="width: 52%;"/>
 
-**->** **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 # Skills 🎯
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
