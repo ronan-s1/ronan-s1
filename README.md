@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats-2bax-ronan-s1.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 52%;"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 52%;"/>
 <img src="https://github-readme-stats-2bax.vercel.app/top-langs?username=ronan-s1&langs_count=8&layout=compact&theme=blueberry&show_icons=true" style="width: 52%;"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 # Skills 🎯
