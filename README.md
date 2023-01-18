@@ -6,7 +6,7 @@
 **->** 👨🏽‍💻 **[My Projects](https://github.com/ronan-s1/My-Projects)**<br>
 
 # Stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 52%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry&env=PAT_1" style="width: 52%;"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 52%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronan-s1&langs_count=8&layout=compact&theme=blueberry&show_icons=true" style="width: 52%;"/>
 
