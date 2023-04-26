@@ -3,7 +3,7 @@
 
 **->** 🎓 Currently a 3<sup>rd</sup> year CS student at TU Dublin<br>
 **->** 🎨 I enjoy programming and designing<br>
-**->** 📭 Reach me **[here](https://linktr.ee/ronansingpurwala)**<br>
+**->** 🌐 **[My Personal Site](https://ronan-s1.github.io/)**<br>
 **->** 👨🏽‍💻 **[My Projects](https://github.com/ronan-s1/My-Projects)**<br>
 
 # Stats 📊
