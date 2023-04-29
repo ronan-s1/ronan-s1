@@ -4,7 +4,7 @@
 **->** 🎓 Currently a 3<sup>rd</sup> year CS student at TU Dublin<br>
 **->** 🎨 I enjoy programming and designing<br>
 **->** 🌐 **[My Personal Site](https://ronan-s1.github.io/)**<br>
-**->** 👨🏽‍💻  **[My Projects](https://github.com/ronan-s1/My-Projects)**<br>
+**->** 🕹️ **[My Projects](https://github.com/ronan-s1/My-Projects)**<br>
 
 # Stats 📊
 <img src="https://github-readme-stats-2bax-ronan-s1.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 52%;"/>
@@ -34,5 +34,3 @@
 
 # Views 👀
 <img src="https://komarev.com/ghpvc/?username=ronan-s1&style=for-the-badge&color=33518f" alt="Profile views"/>
-
-  
