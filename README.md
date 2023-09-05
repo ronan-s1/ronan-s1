@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=3600&pause=1000&color=27E8A7&vCenter=true&width=735&height=51&lines=Helloooo+I'm+Ronan%F0%9F%91%8B;Studying+Computer+Science%F0%9F%93%9A;Dublin%F0%9F%93%8D" alt="Typing SVG" />
 
-**→** 🎓 3<sup>rd</sup> year CS student at TU Dublin<br>
+**→** 🎓 4<sup>th</sup> year CS student at TU Dublin<br>
 **→** 🎨 I enjoy programming and designing<br>
 **→** 🌐 **[My Personal Site](https://ronansingpurwala.com/)**<br>
 **→** 🕹️ **[My Projects](https://github.com/ronan-s1/My-Projects)**<br>
