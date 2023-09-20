@@ -8,7 +8,7 @@
 
 # Stats 📊
 <img src="https://github-readme-stats-2bax-ronan-s1.vercel.app/api?username=ronan-s1&layout=compact&show_icons=true&theme=blueberry" style="width: 52%;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 52%;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronan-s1&theme=blueberry&layout=compact" style="width: 52%;" alt="refresh page, this doesn't show sometimes"/>
 <img src="https://github-readme-stats-2bax.vercel.app/api/top-langs/?username=ronan-s1&langs_count=8&layout=compact&theme=blueberry&show_icons=true" style="width: 52%;"/>
 
 # Skills 🎯
