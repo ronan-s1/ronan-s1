@@ -2,9 +2,7 @@
 
 ➜ 🎓 CS graduate (1.1)<br>
 ➜ 💡 I enjoy building useful tools and applications<br>
-➜ 🛠️ **[My Projects](https://github.com/ronan-s1/My-Projects)**<br>
 ➜ 🌐 **[My Personal Site](https://ronansingpurwala.com/)**<br>
-➜ 🍔 **[My Food Blog](http://foodindublin.com/)**<br>
 
 
 # Stats 📊
