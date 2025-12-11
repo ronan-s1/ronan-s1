@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=27E8A7&vCenter=true&width=735&height=52&lines=Hellooo+I'm+Ronan%F0%9F%91%8B+;SRE+%F0%9F%92%BC;Dublin%F0%9F%93%8D" alt="Typing SVG" /></a>
 
-➜ 🎓 CS graduate (1.1)<br>
 ➜ 💡 I enjoy building useful tools and applications<br>
 ➜ 🌐 **[My Personal Site](https://ronansingpurwala.com/)**<br>
 
